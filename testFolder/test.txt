@@ -1,6 +1,5 @@
 test version
 
-<<<<<<< HEAD
-=======
+ 
 creating a new branch is quick.        this is new branch for test!.   fanzeyong
->>>>>>> develop
+ 
