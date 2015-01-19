@@ -1,3 +1,7 @@
 test version
 
+<<<<<<< HEAD
 creating a new branch is quick.   master update
+=======
+creating a new branch is quick.        this is new branch for test!.
+>>>>>>> 24732c7cea8b1fa7f4d9a089939098212026fb4a
