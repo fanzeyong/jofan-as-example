@@ -2,6 +2,7 @@ package
 {
 	import flash.display.Sprite;
 	import flash.events.Event;
+	import flash.text.TextField;
 	
 	/**
 	 * ...
@@ -9,7 +10,7 @@ package
 	 */
 	public class Main extends Sprite 
 	{
-		
+		private var t:TextField=new TextField
 		public function Main():void 
 		{
 			if (stage) init();
